@@ -1,7 +1,8 @@
 # Cuban PHP Community
 Comunidad Cubana de PHP
 
-htps:
+https://phpcuba.com
+
 ## ¿Cómo trabajar con este repositorio?
 
 Para ver este repositorio basicamente necesitas 2 cosas:
